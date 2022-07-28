@@ -9,4 +9,6 @@
 2. 点击选择颜色值(16进制)
 3. 点击音效
 
+# 演示地址
+[在线演示](https://chenkuan.vip/chinese-tranditional-colors/)
 
