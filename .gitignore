@@ -6,4 +6,4 @@ yarn.lock
 
 test/*
 
-deplay.sh
+deploy.sh
